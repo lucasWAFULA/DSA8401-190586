@@ -1,0 +1,6 @@
+cluster,segment_name,n_txn,amt_mean,amt_sum,bal_mean,review_mean,n_unique_agents,n_counterparties,hour_mean,size,pct,top_segment,top_region,anomaly_rate_pct,dbscan_noise_pct
+0,High-Activity Users,56.4,1776.0,99965.3,8004.1,0.1,44.8,55.1,11.5,1367,28.3,retail,Mombasa,0.22,0.29
+1,Occasional Users,21.1,2253.4,45331.6,8049.2,0.1,17.3,20.7,11.5,744,15.4,retail,Mombasa,1.48,7.39
+2,Power Users,111.6,1774.0,198145.8,7978.9,0.1,83.8,108.8,11.5,441,9.1,retail,Kigali,0.0,2.72
+3,Core Retail Users,21.6,1627.8,35237.8,7946.8,0.2,17.6,21.1,11.4,1552,32.2,retail,Jinja,0.39,2.64
+4,Low-Activity Wallets,11.2,1617.9,18469.1,8071.3,0.1,9.3,11.0,11.8,721,14.9,retail,Eldoret,0.69,12.62
